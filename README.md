@@ -1,7 +1,7 @@
 # Student Course Management System
 
 A menu-driven console application written in **C** that lets a student register their semester courses, search them by course code, calculate total credit units, and save or load their records from a file so data persists between sessions.
-
+ ![Program running](Screenshot.png)
 ## Compile & Run
 
 No dependencies, just a C compiler (gcc):
